@@ -12,3 +12,10 @@ RESTful API for blackbird-music.se
 
 #### Start
 mvn spring-boot:run
+
+#### API 
+##### root
+http://localhost:8080
+
+##### /soundcloud/tracks
+GET returns all soundcloud tracks
