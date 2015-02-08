@@ -1,4 +1,4 @@
-package se.blackbirdmusic.music.track.soundcloud;
+package se.blackbirdmusic.music.track;
 
 import static java.util.Objects.requireNonNull;
 
